@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Water Quality Data Analysis
+title: "Water Quality Data Analysis"
 categories: coding
 tag: [python, jupyter, machine learning]
 toc: true
